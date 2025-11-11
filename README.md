@@ -17,6 +17,7 @@ El repositorio incluye la estructura completa utilizada en la actividad: archivo
 ## 2. Estructura del proyecto
 
 El repositorio está organizado de forma clara para facilitar la corrección:
+```
 /
 ├── DocumentosSeguros/
 │ ├── originales/ → Archivos sin cifrar.
@@ -29,7 +30,7 @@ El repositorio está organizado de forma clara para facilitar la corrección:
 │
 │
 └── README.md
-
+```
 
 ---
 
