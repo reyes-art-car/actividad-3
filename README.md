@@ -26,7 +26,7 @@ El repositorio está organizado de forma clara para facilitar la corrección:
 │ ├── hashes/ → Hashes SHA-256 de los archivos.
 │ └── clave_publica/ → Clave pública exportada para cifrado.
 │
-├── capturas/ → Capturas utilizadas como evidencia del proceso.
+├── Actividad 3. Powerpoint con capturas del proceso
 │
 │
 └── README.md
