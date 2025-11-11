@@ -19,12 +19,11 @@ El repositorio incluye la estructura completa utilizada en la actividad: archivo
 El repositorio está organizado de forma clara para facilitar la corrección:
 ```
 /
-├── DocumentosSeguros/
-│ ├── originales/ → Archivos sin cifrar.
-│ ├── cifrado_asimetrico/ → Archivos cifrados con OpenPGP (Kleopatra).
-│ ├── cifrado_simetrico/ → Archivos cifrados con AES Crypt.
-│ ├── hashes/ → Hashes SHA-256 de los archivos.
-│ └── clave_publica/ → Clave pública exportada para cifrado.
+├── originales/ → Archivos sin cifrar.
+├── cifrado_asimetrico/ → Archivos cifrados con OpenPGP (Kleopatra).
+├── cifrado_simetrico/ → Archivos cifrados con AES Crypt.
+├── hashes/ → Hashes SHA-256 de los archivos.
+└── clave_publica/ → Clave pública exportada para cifrado.
 │
 ├── Actividad 3. Powerpoint con capturas del proceso
 │
